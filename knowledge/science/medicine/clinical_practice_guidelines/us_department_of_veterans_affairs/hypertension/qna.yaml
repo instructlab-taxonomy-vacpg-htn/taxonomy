@@ -158,6 +158,14 @@ seed_examples:
             Of the 33,357 participants in the Antihypertensive and
             Lipid-Lowering Treatment to Prevent Heart Attack (ALLHAT) trial,
             35% were African American.
+      - question: |
+            Is a thiazide-type diuretic or CCB appropriate for initial choices
+            for African Americans with HTN?
+        answer: |
+            Yes, In addition to being recommended as primary pharmacologic
+            therapy for HTN for reduction in composite cardiovascular outcomes
+            in this CPG (see Recommendation 23), a thiazide-type diuretic or
+            CCB are appropriate initial choices for African Americans with HTN.
   - context: |
         Recommendation
         26. We recommend against more than one of the following three drug
